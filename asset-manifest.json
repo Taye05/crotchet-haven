@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/crotchet-haven/static/css/main.8c66cfe9.chunk.css",
+    "main.js": "/crotchet-haven/static/js/main.c5cb442b.chunk.js",
+    "main.js.map": "/crotchet-haven/static/js/main.c5cb442b.chunk.js.map",
+    "runtime-main.js": "/crotchet-haven/static/js/runtime-main.db40dbce.js",
+    "runtime-main.js.map": "/crotchet-haven/static/js/runtime-main.db40dbce.js.map",
+    "static/js/2.b4ac30bf.chunk.js": "/crotchet-haven/static/js/2.b4ac30bf.chunk.js",
+    "static/js/2.b4ac30bf.chunk.js.map": "/crotchet-haven/static/js/2.b4ac30bf.chunk.js.map",
+    "index.html": "/crotchet-haven/index.html",
+    "static/css/main.8c66cfe9.chunk.css.map": "/crotchet-haven/static/css/main.8c66cfe9.chunk.css.map",
+    "static/js/2.b4ac30bf.chunk.js.LICENSE.txt": "/crotchet-haven/static/js/2.b4ac30bf.chunk.js.LICENSE.txt",
+    "static/media/c.f5e6e197.jpg": "/crotchet-haven/static/media/c.f5e6e197.jpg",
+    "static/media/Welcome.css": "/crotchet-haven/static/media/d.4a777b10.jpg",
+    "static/media/e.1ca2b102.jpg": "/crotchet-haven/static/media/e.1ca2b102.jpg",
+    "static/media/f.a733cbde.jpg": "/crotchet-haven/static/media/f.a733cbde.jpg",
+    "static/media/thread.43b2f828.jpg": "/crotchet-haven/static/media/thread.43b2f828.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.db40dbce.js",
+    "static/js/2.b4ac30bf.chunk.js",
+    "static/css/main.8c66cfe9.chunk.css",
+    "static/js/main.c5cb442b.chunk.js"
+  ]
+}
