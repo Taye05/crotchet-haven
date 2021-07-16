@@ -1,0 +1,28 @@
+.about {
+  color: purple;
+  text-align: center;
+  font-size: 50px;
+}
+
+p {
+  text-align: center;
+  font-size: large;
+  font-family: "Poppins", sans-serif;
+}
+
+.cloth {
+  height: 30%;
+  width: 30%;
+  margin: 15px;
+}
+
+#about-us {
+  margin-top: 5%;
+}
+
+@media only screen and (max-width: 600px) {
+  .cloth {
+    display: block;
+    width: 70%;
+  }
+}
